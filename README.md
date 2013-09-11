@@ -6,11 +6,13 @@ This is the plugin for the Rails 4 asset pipeline. Should also work with Rails 3
 
 ## Installation
 
+Just add it to your Gemfile
+
     gem "jquery-baconipsum-rails"
 
 ## Using the javascript
 
-Require jquery-baconipsum in your app/assets/application.js file.
+Require jquery-baconipsum in your app/assets/javascripts/application.js file.
 
     //= require jquery-baconipsum
 
